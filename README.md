@@ -12,6 +12,4 @@ This game is made by Ruchi while practising coding skills.
 # Click & Play
 Clcik the link below and you can play the game. You don't need to signup, just click and play.
 
-https://replit.com/@Ruchirang/Ruchirang-endgame#index.js?embed=1&output=1
-
 https://replit.com/@Ruchirang/Ruchirang-endgame?embed=1&output=1#index.js
